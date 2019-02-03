@@ -1,0 +1,11 @@
+/Users/marthagonzalez/Documents/Coding_Dojo/c#/ASP/entity/restauranter/bin/Debug/netcoreapp2.0/restauranter.deps.json
+/Users/marthagonzalez/Documents/Coding_Dojo/c#/ASP/entity/restauranter/bin/Debug/netcoreapp2.0/restauranter.runtimeconfig.json
+/Users/marthagonzalez/Documents/Coding_Dojo/c#/ASP/entity/restauranter/bin/Debug/netcoreapp2.0/restauranter.runtimeconfig.dev.json
+/Users/marthagonzalez/Documents/Coding_Dojo/c#/ASP/entity/restauranter/bin/Debug/netcoreapp2.0/restauranter.dll
+/Users/marthagonzalez/Documents/Coding_Dojo/c#/ASP/entity/restauranter/bin/Debug/netcoreapp2.0/restauranter.pdb
+/Users/marthagonzalez/Documents/Coding_Dojo/c#/ASP/entity/restauranter/obj/Debug/netcoreapp2.0/restauranter.csproj.CoreCompileInputs.cache
+/Users/marthagonzalez/Documents/Coding_Dojo/c#/ASP/entity/restauranter/obj/Debug/netcoreapp2.0/restauranter.AssemblyInfoInputs.cache
+/Users/marthagonzalez/Documents/Coding_Dojo/c#/ASP/entity/restauranter/obj/Debug/netcoreapp2.0/restauranter.AssemblyInfo.cs
+/Users/marthagonzalez/Documents/Coding_Dojo/c#/ASP/entity/restauranter/obj/Debug/netcoreapp2.0/restauranter.dll
+/Users/marthagonzalez/Documents/Coding_Dojo/c#/ASP/entity/restauranter/obj/Debug/netcoreapp2.0/restauranter.pdb
+/Users/marthagonzalez/Documents/Coding_Dojo/c#/ASP/entity/restauranter/obj/Debug/netcoreapp2.0/restauranter.csprojAssemblyReference.cache

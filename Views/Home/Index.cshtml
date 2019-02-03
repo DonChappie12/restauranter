@@ -1,0 +1,25 @@
+﻿<h1>Write a new Review:</h1>
+@model Review
+<form asp-action="Create" asp-controller="Home" method="post">
+    <span asp-validation-for="name"></span>
+    <p>Reviewer Name: <input asp-for="name"></p>
+    <span asp-validation-for="restaurant"></span>
+    <p>Restaurant Name: <input asp-for="restaurant"></p>
+    <p> Stars
+        <select asp-for="stars">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+        </select>
+    </p>
+    <span asp-validation-for="review"></span>
+    <br>
+    <label>Review</label>
+    <textarea asp-for="review" cols="30" rows="10" placeholder="Write your review here..."></textarea>
+    <br>
+    <span asp-validation-for="date_visit"></span>
+    <p>Date Visted: <input type="date" asp-for="date_visit"></p>
+    <input type="submit" value="Submit!">
+</form>

@@ -1,0 +1,10 @@
+<h1>Reviews are here</h1>
+@model List<Review>
+@{
+    foreach(var x in @Model){
+        <h2>Review for: @x.restaurant   @x.stars star(s)</h2>
+        <h4>Reviewer: @x.name @x.date_visit</h4>
+        <p>@x.review</p>
+
+    }
+}
